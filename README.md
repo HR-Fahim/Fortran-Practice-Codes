@@ -2,6 +2,8 @@
 
 This repository contains a collection of Fortran practice codes for learning and practicing the Fortran programming language.
 
+<sub> ****P.S.*** The project was completed under CSE425 (Concepts of Programming Language) course offered by North South University.*<sub/>
+
 ## Getting Started
 
 ### Prerequisites
